@@ -1,0 +1,7 @@
+- Python (Jupyter Notebook, Pandas, NumPy)
+- Scikit-learn (Logistic Regression, SVM, Naive Bayes, etc.)
+- TensorFlow / Keras (LSTM, CNN, RNN)
+- Natural Language Processing (TF-IDF, Word Embedding)
+- Bangla NLP preprocessing libraries
+- Google Colab / Jupyter
+- Dataset collected from Bangla news portals
